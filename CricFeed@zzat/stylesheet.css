@@ -1,0 +1,20 @@
+.cricFeed-labelBox0 {
+    background-color : rgba(30, 30, 30, 0.7);
+}
+
+.cricFeed-labelBox1 {
+    background : rgba(15, 15, 15, 0.7);
+}
+
+.cricFeed-labelBox0:hover {
+    background : rgba(50, 50, 50, 0.7);
+}
+
+.cricFeed-label {
+    padding : 7px;
+}
+
+.cricFeed-label:hover {
+    color : red;
+}
+
