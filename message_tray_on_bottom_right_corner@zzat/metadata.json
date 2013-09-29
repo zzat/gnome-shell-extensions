@@ -1,0 +1,6 @@
+{
+    "shell-version": ["3.10.0"], 
+    "uuid": "message_tray_on_bottom_right_corner@zzat",
+    "name": "Message Tray on bottom right corner", 
+    "description": "Shows message tray when pressure is applied on bottom right corner."
+}
