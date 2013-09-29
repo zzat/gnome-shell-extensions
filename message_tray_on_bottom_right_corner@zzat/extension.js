@@ -3,7 +3,12 @@ const Meta = imports.gi.Meta;
 
 const LayoutManager = imports.ui.main.layoutManager;
 
+
 function init() {
+}
+
+
+function enable() {
 
     LayoutManager._trayBarrier_ = null;
 
@@ -43,9 +48,6 @@ function init() {
     LayoutManager._updateTrayBarrier();
 }
 
-
-function enable() {
-}
 
 function disable() {
     
